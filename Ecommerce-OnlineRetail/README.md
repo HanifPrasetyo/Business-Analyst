@@ -29,12 +29,12 @@ Analisis difokuskan pada:
 Dataset dashboard asli tidak diunggah ke GitHub karena ukurannya melebihi 100MB.  
 Anda dapat mengunduh dataset melalui Google Drive berikut:
 
-👉 [Download Dataset (Google Drive)]([https://drive.google.com/your-link-here](https://docs.google.com/spreadsheets/d/1ippXAYEcY8CieorGSpDlvfAOlI_sv984/edit?usp=sharing&ouid=112378312591701354024&rtpof=true&sd=true))
+👉 [Download Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1ippXAYEcY8CieorGSpDlvfAOlI_sv984/edit?usp=sharing&ouid=112378312591701354024&rtpof=true&sd=true)
 
 
 Sumber asli dataset:
 
-- [Kaggle: Online Retail Dataset]([https://www.kaggle.com/datasets/tunguz/online-retail](https://www.kaggle.com/datasets/tunguz/online-retail))
+- [Kaggle: Online Retail Dataset](https://www.kaggle.com/datasets/tunguz/online-retail](https://www.kaggle.com/datasets/tunguz/online-retail)](https://www.kaggle.com/datasets/tunguz/online-retail))
 
 ## 📈 Dashboard Preview
 Beberapa tampilan dashboard hasil analisis:
