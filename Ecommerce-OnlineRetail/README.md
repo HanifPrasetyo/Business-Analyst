@@ -67,7 +67,7 @@ Beberapa tampilan dashboard hasil analisis:
 - Tingkatkan pencatatan **CustomerID** untuk analisis pelanggan.  
 
 ## 📂 Project Files
-- 📄 [Documentation (PDF)]([Ecommerce-OnlineRetail/ECommerce Sales Performance Dasboard Online Retail Dataset .pptx](https://github.com/HanifPrasetyo/Business-Analyst/blob/75d252d25a75f48e8027ca3fc298b9150a093c5e/Ecommerce-OnlineRetail/Analisis%20Memahami%20Performa%20Penjualan.pdf))  
+- 📄 [Documentation (PDF)](https://github.com/HanifPrasetyo/Business-Analyst/blob/d7759ce7111200c6b474525a377001df1b1c6cbc/Ecommerce-OnlineRetail/Analisis%20Memahami%20Performa%20Penjualan.pdf)  
 - 📊 [Presentation (PPTX)]([link-ke-ppt](https://github.com/HanifPrasetyo/Business-Analyst/blob/75d252d25a75f48e8027ca3fc298b9150a093c5e/Ecommerce-OnlineRetail/ECommerce%20Sales%20Performance%20Dasboard%20Online%20Retail%20Dataset%20.pptx))  
 
 ---
